@@ -1,4 +1,4 @@
-Task no:3 - password generator 
+# codsoft-task_3Task no:3 - password generator 
 
 My sincere thanks to CODSOFT and the team working there 
 to provide me with this wonderful opportunity to learn
